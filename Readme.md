@@ -1,2 +1,2 @@
 Credit:
-Seth117 for the stream scripts 
+<a href=" https://github.com/Seth177">Seth177</a> for the stream scripts 
