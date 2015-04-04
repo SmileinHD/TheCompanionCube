@@ -1,9 +1,255 @@
 {
-	"states":{
-		"tenessee":{
-			"tax":"0",
+	"states":[{
+		"alabama":{
+			"tax":"4.00",
+			"shortName":"AL"
+			},
+		"alaska":{
+			"tax":"",
 			"shortName":"TN"
-		}
-	}
+			},
 
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			},
+
+		"":{
+			"tax":"",
+			"shortName":"TN"
+			}
+
+		}]
 }
+
+

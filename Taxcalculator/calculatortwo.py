@@ -1,10 +1,6 @@
-#imports dependinces
-import json
+import statetaxes
 
 tax = 0.00
-
-with open('taxes.json') as data_file:    
-    data = json.load(data_file)
 
 
 #Future feature, asks the user how many items there was for finding the
@@ -17,11 +13,8 @@ if numberItem == 1:
 #Asks the user what state they live in to determine the sales tax
 state = input("\nWhat is the abbreviation or name of your state?: ")
 
-def jsoncheck(stateName):
-	tax = data["states"][stateName]["tax"]
-	pass
 
-jsoncheck(state)
+statetaxes.taxes(state)
 print(tax)
 
 #Asks the user if they want the total or the tax.
