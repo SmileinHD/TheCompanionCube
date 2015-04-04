@@ -1,8 +1,8 @@
 {
 	"states":{
 		"tenessee":{
-			"tax":"5000000",
-			"otherthings":"yey"
+			"tax":"0",
+			"shortName":"TN"
 			}
 		}
 
