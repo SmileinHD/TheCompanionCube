@@ -1,5 +1,12 @@
-item = float(input("How much was the item?"))
+#Future feature, asks the user how many items there was for finding the
+#total of multiple items
+numberItem = float(input("How many items are there?"))
+#Asks the user how much the item was
+if numberItem == 1: 
+	item = float(input("How much was the item?"))
+#Declares the tax variable
 tax = 0.00
+#Asks the user what state they live in to determine the sales tax
 state = input("What is the abbreviation or name of your state?")
 #List of state sales taxes
 if state == "AL" or "Alabama":
