@@ -1,14 +1,10 @@
 {
-	"states":[{
+
+	"states":{
 		"alabama":{
 			"tax":"4.00",
 			"shortName":"AL"
 			},
-		"alaska":{
-			"tax":"",
-			"shortName":"TN"
-			},
-
 		"":{
 			"tax":"",
 			"shortName":"TN"
@@ -249,7 +245,21 @@
 			"shortName":"TN"
 			}
 
-		}]
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
 }
 
 
